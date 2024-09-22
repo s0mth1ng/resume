@@ -1,0 +1,20 @@
+extends: default
+heading:
+  margin-bottom: 1
+  margin-top: 1
+heading-h1:
+  font-size: 16
+heading-h2:
+  font-size: 14
+heading-h3:
+  font-size: 12
+  font-style: normal
+page:
+  margin: [0.2in, 0.2in, 0.2in, 0.2in]
+prose:
+  margin-bottom: 0
+  margin-inner: 0
+thematic-break:
+  padding: [0, 0, -10, 0]
+list:
+  item-spacing: 0

@@ -1,0 +1,41 @@
+:nofooter:
+
+= Maxim Ivanov
+
+[cols="1,3,2", frame=none, grid=none]
+|===
+.3+|image:images/avatar.png[100,100,align=right]
+.3+| Backend developer intersted in System Design, Performance, Security and Networks.
+
+Climbing and movie enjoyer.
+|image:./icons/tg.png[15,15] https://t.me/s0mth1ng[@s0mth1ng]
+
+|image:./icons/gh.png[15,15] https://github.com/s0mth1ng[@s0mth1ng]
+
+|image:./icons/email.png[15,15] maximsmthivanov@gmail.com
+|===
+
+== Work Experience
+---
+[horizontal]
+2022 Jan - Present:: **Backend Developer at TBank** _FWaaS team_
+* Created service for Security department for inspecting security rules on firewalls
+* Automated security checks for network access requests
+* Helped at Database (and others services) migrations via fast transfering access rules.
+* Was involved in FWaaS projects support
+* Conducted Python & Algorithm interview sections
+
+== Education
+=== **Moscow Institute of Physics and Technology** _Applied Mathematics and Compter Science_
+---
+[horizontal]
+2023 Sep - 2025 Aug:: Master's degree at the 1C department. Studied CS.
+2019 Sep - 2023 Aug:: Bachelor's degree at the 1C department. Studied physics, math, optimization, ML, CS.
+
+== Skills
+---
+[horizontal]
+Technologies:: Python (FastAPI, SQLAlchemy), GoLang, DevOps (GitLab CI, Docker, K8S), Grafana, Prometheus, Bash, PostgreSQL, Redis, S3
+Knowledges:: Algorithms (CS competitions, conducted algorithm interviews), Networks (multiple university courses, network oriented work at TBank), Security (CTF competitions), Optimization (multiple math & optimization related courses at University), System Design, OOP/FP, REST.
+Languages:: Russian (native), English (C1)
+Soft skills:: Good planning and prioritization, stress-resistant.
